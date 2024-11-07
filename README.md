@@ -31,4 +31,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/aathi-athira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aathi-athira&stroke=ffffff&background=181824&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/aathi-athira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathi-athira&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
