@@ -8,10 +8,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## Software Engineer Researcher
 
 - 🌍  I'm based in India
-- 👀 Interested in Machine Learning and Frontend Software Development.
-- 🌱 I’m currently working  on designing and creating web pages 
+- 👀 Interested in Machine Learning and Software Development.
+- 🌱 As a passion, I’m currently working on designing and creating web pages. 
 - 💞️ I’m looking for collaborations
-- ✉️  You can contact me at [a-padinharayil@erisa.co.jp](mailto:a-padinharayil@erisa.co.jp)
+- ✉️  You can connect with me at [athira220422@gmail.com](mailto:athira220422@gmail.com)
 
 ### Skills
 
